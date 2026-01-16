@@ -5,7 +5,7 @@ A simple work-in-progress game engine built with Python and OpenGL, focused on l
 
 Made by **J0o0ll**
 
-![GitHub License](https://img.shields.io/github/license/J0o0/PyJotaEngine?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/JJ0o0/PyJotaEngine?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
